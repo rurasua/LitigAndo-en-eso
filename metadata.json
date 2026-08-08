@@ -1,0 +1,6 @@
+{
+  "name": "LitigAndo en eso",
+  "description": "Aplicación inmersiva para abogados independientes y auxiliares jurídicos, con firma electrónica, blockchain y agenda automatizada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
